@@ -1,3 +1,13 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.examen;
+
+/**
+ *
+ * @author pedro
+ */
 public class Rectangulo {
     private double coo1x;
     private double coo1y;
